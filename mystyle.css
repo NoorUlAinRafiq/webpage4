@@ -12,6 +12,9 @@ body{
 h1{
   font-family: turret_road;
 }
+div{
+  font-family: turret_road;
+}
 #container{
   position: relative;
   top: 100px;
