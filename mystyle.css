@@ -1,7 +1,7 @@
 /*FONT************/
 @font-face {
   font-family: oliver blush free;
-  src: url("C:/Users/theus/OneDrive - Columbia College Chicago/Desktop/Nooooooooor Dumb Stuff/Downloads/Windows 10 Pro v.1511 En-us x64 July2016 Pre-Activated-=TEAM OS=-/efi/microsoft/boot/fonts/Oliver Blush Free.ttf");
+  src: url(fonts/OliverBlushFree.ttf);
 }
 /*****************/
 body{
