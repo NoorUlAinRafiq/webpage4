@@ -3,6 +3,14 @@
   font-family: turret_road;
   src: url(fonts/Turret_Road/TurretRoad-Bold.ttf);
 }
+@font-face {
+  font-family: itim-regular;
+  src: url(fonts/Itim-Regular.ttf);
+}
+@font-face {
+  font-family: angeliny-regular;
+  src: url(fonts/Angeliny_Regular.ttf);
+}
 /*****************/
 body{
   display: flex;
@@ -10,7 +18,7 @@ body{
   background: blue;
 }
 h1{
-  font-family: turret_road;
+  font-family: itim-regular;
 }
 div{
   font-family: turret_road;
