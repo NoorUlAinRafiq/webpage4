@@ -23,6 +23,9 @@ h1{
 div{
   font-family: turret_road;
 }
+title{
+  font-family: angeliny-regular;
+}
 #container{
   position: relative;
   top: 100px;
