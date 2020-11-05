@@ -1,7 +1,7 @@
 /*FONT************/
 @font-face {
-  font-family: oliver blush free;
-  src: url("fonts/OliverBlushFree.ttf");
+  font-family: oliverblushfree;
+  src: url(fonts/OliverBlushFree.ttf);
 }
 /*****************/
 body{
