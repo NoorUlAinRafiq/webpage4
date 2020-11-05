@@ -1,7 +1,7 @@
 /*FONT************/
 @font-face {
-  font-family: myFirstFont;
-  src: url(sansation_light.woff);
+  font-family: Oliver Blush Free;
+  src: url(C:/Users/theus/OneDrive - Columbia College Chicago/Noor School Files/Oliver Blush Free.ttf);
 }
 /*****************/
 body{
@@ -14,6 +14,14 @@ body{
   top: 100px;
   width: 500px;
 }
+#hero-image {
+Display:flex;
+Justify-content: center;}
+#hero-image img{
+Width: 250px;
+Height: 250px;
+}
+
 #content-box{
   background: #FFF;
   padding: 15px;
