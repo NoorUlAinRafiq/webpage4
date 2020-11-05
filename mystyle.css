@@ -9,13 +9,6 @@ body{
   justify-content: center;
   background: blue;
 }
-div{
-  font-family: oliverblushfree;
-}
-h1{
-  font-family: Angeliny-Regular.ttf;
-}
-
 }
 #container{
   position: relative;
@@ -31,6 +24,7 @@ Height: 250px;
 }
 
 #content-box{
+  font-family: Angeliny-Regular.ttf;
   background: #FFF;
   padding: 15px;
   margin-bottom: 15px;
