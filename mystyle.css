@@ -5,10 +5,14 @@
 }
 /*****************/
 body{
-  font-family: oliverblushfree;
   display: flex;
   justify-content: center;
   background: blue;
+}
+h1{
+  font-family: oliverblushfree;
+}
+
 }
 #container{
   position: relative;
