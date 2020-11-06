@@ -27,6 +27,8 @@ h2{
   font-family: angeliny-regular;
 }
 #title{
+  padding: 15px;
+  margin-bottom: 15px;
   text-align: center;
 }
 #container{
