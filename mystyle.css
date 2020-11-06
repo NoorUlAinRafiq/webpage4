@@ -24,8 +24,7 @@ div{
   font-family: turret_road;
 }
 h2{
-  justify-content: center;
-  position:relative;
+  text-align: center;
   font-family: angeliny-regular;
 }
 #container{
