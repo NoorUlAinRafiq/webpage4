@@ -24,8 +24,10 @@ div{
   font-family: turret_road;
 }
 h2{
-  text-align: center;
   font-family: angeliny-regular;
+}
+#title{
+  text-align: center;
 }
 #container{
   position: relative;
