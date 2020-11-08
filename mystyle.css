@@ -54,7 +54,7 @@ Height: -50px;
 }
 ul{
 position: relative;
-margin-bottom: -15px;
+margin: 25px;
 list-style-type: none;
   padding: 0px;
   display: flex;
