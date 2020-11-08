@@ -70,11 +70,11 @@ li{
 }
 a{
   text-decoration: none;
-Background: grey;
+Background: #50aeaf;
   padding: 15px;
   color: blue;
 }
 a:hover{
-  background: yellow;
+  background: #ae3fc0;
   color: pink;
 }
