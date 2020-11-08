@@ -54,7 +54,7 @@ Height: -50px;
 }
 ul{
 position: relative;
-margin-bottom: -10px;
+margin-bottom: -15px;
 list-style-type: none;
   padding: 0px;
   display: flex;
@@ -65,7 +65,7 @@ li{
 }
 a{
   text-decoration: none;
-
+Background: FFF;
   padding: 8px;
 }
 a:hover{
