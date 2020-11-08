@@ -43,8 +43,8 @@ h2{
 Display:flex;
 Justify-content: center;}
 #hero-image img{
-Width: 150px;
-Height: 150px;
+Width: 50px;
+Height: 50px;
 }
 
 #content-box{
@@ -66,5 +66,5 @@ a{
   padding: 15px;
 }
 a:hover{
-  background: yellow;
+  background: grey;
 }
