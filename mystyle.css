@@ -19,6 +19,9 @@ body{
 }
 h1{
   font-family: itim-regular;
+  padding: 15px;
+  margin-bottom: 15px;
+  text-align: center;
 }
 div{
   font-family: turret_road;
