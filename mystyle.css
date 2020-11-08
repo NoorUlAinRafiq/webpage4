@@ -43,8 +43,8 @@ h2{
 Display:flex;
 Justify-content: center;}
 #hero-image img{
-Width: 250px;
-Height: 250px;
+Width: 150px;
+Height: 150px;
 }
 
 #content-box{
