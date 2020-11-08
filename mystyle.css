@@ -76,4 +76,5 @@ Background: grey;
 }
 a:hover{
   background: yellow;
+  color: pink;
 }
