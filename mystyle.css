@@ -15,8 +15,8 @@
 body{
   display: flex;
   justify-content: center;
-  background: repeating-linear-gradient
-(45deg,
+  background: repeating-linear-gradient(
+    45deg,
 #pink,
 #pink 10px,
 #FFF 10px,
