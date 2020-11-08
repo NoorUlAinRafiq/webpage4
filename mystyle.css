@@ -21,7 +21,7 @@ h1{
   font-family: itim-regular;
   padding: 15px;
   margin-bottom: 15px;
-  text-align: center;
+  justify-content: center;
 }
 div{
   font-family: turret_road;
@@ -43,8 +43,8 @@ h2{
 Display:flex;
 Justify-content: center;}
 #hero-image img{
-Width: 50px;
-Height: 50px;
+Width: -50px;
+Height: -50px;
 }
 
 #content-box{
@@ -54,7 +54,7 @@ Height: 50px;
 }
 ul{
 position: relative;
-margin-bottom: 40px;
+margin-bottom: -40px;
 list-style-type: none;
   padding: 0px;
   display: flex;
