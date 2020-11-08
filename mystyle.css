@@ -50,8 +50,8 @@ h2{
 Display:flex;
 Justify-content: center;}
 #hero-image img{
-Width: -50px;
-Height: -50px;
+Width: 500px;
+Height: 500px;
 }
 
 #content-box{
