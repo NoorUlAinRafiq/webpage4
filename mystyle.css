@@ -15,8 +15,12 @@
 body{
   display: flex;
   justify-content: center;
-  background: PINK;
-}
+  background: repeating-linear-gradient
+}45deg,
+#pink,
+#pink 10px,
+#grey 10px,
+#grey 20px);}
 h1{
   font-family: itim-regular;
   padding: 15px;
@@ -67,7 +71,7 @@ a{
   text-decoration: none;
 Background: #grey;
   padding: 15px;
-  color: #green;
+  color: #blue;
 }
 a:hover{
   background: PINK;
