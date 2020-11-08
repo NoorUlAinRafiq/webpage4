@@ -70,10 +70,10 @@ li{
 }
 a{
   text-decoration: none;
-Background: #grey;
+Background: grey;
   padding: 15px;
   color: blue;
 }
 a:hover{
-  background: grey;
+  background: yellow;
 }
