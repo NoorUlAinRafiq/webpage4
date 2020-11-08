@@ -54,15 +54,15 @@ Height: 50px;
 }
 ul{
 position: relative;
-margin-bottom: -2px;
+margin-bottom: 40px;
 list-style-type: none;
   padding: 0px;
   display: flex;
-  justify-content: left;
+  justify-content: center;
 }
 a{
   text-decoration: none;
-  background: #FFF;
+  
   padding: 15px;
 }
 a:hover{
