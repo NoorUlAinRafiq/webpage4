@@ -67,6 +67,7 @@ a{
   text-decoration: none;
 Background: #grey;
   padding: 15px;
+  color: #green;
 }
 a:hover{
   background: PINK;
