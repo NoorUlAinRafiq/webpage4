@@ -29,6 +29,7 @@ h1{
   justify-content: center;
   color: #814a09;
 }
+
 div{
   font-family: turret_road;
 }
@@ -36,11 +37,16 @@ h2{
   font-family: angeliny-regular;
   color: #814a09;
 }
-#title{
-  padding: 15px;
-  margin-bottom: 15px;
-  text-align: center;
+#slider{
+  overflow: hidden;
 }
+#slider figure{
+  position: relative;
+  width:100%;
+  margin: 0;
+  left: 0;
+}
+
 #container{
   position: relative;
   top: 100px;
