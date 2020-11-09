@@ -22,6 +22,20 @@ body{
   #5a92a5 10px,
   #5a92a5 20px
 );}
+#slider{
+  overflow: hidden;
+}
+#slider figure{
+  position: relative;
+  width:100%;
+  margin: 0;
+  left: 0;
+  animation: 10s slider infinite;
+}
+#slider figure img{
+  width: 20%;
+  float: left;
+}
 h1{
   font-family: itim-regular;
   padding: 15px;
@@ -37,20 +51,7 @@ h2{
   font-family: angeliny-regular;
   color: #814a09;
 }
-#slider{
-  overflow: hidden;
-}
-#slider figure{
-  position: relative;
-  width:100%;
-  margin: 0;
-  left: 0;
-  animation: 10s slider infinite;
-}
-#slider figure img{
-  width: 20%;
-  float: left;
-}
+
 
 
 #container{
